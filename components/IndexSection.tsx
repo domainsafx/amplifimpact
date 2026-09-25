@@ -75,7 +75,7 @@ export default function IndexSection() {
       <div className="wrap">
         <div className="section-head light">
           <span className="eyebrow">The Impact Index</span>
-          <h2>Assess what actually predicts lasting impact.</h2>
+          <h2>Assess what actually predicts.</h2>
         </div>
         <div className="index-body">
           <div className="radar-wrap">

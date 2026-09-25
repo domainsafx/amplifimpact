@@ -34,18 +34,18 @@ export default function Home() {
       <Services />
       <HowWork />
       <Ecosystem />
-      <Intelligence />
+      {/* <Intelligence /> */}
       {/* <Thousand /> */}
       <Amplification />
       <Exchange />
       <Forums />
       <Policy />
-      <Studio />
+      {/* <Studio /> */}
       <Challenge />
       <Fellows />
       <IndexSection />
-      <Report />
-      <Global />
+      {/* <Report /> */}
+      {/* <Global /> */}
       <Join />
       <ContactExp />
       <Footer />

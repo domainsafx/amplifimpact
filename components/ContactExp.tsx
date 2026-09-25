@@ -43,7 +43,7 @@ export default function ContactExp() {
     <section className="contact-exp" id="contact" ref={ref}>
       <div className="wrap">
         <span className="eyebrow">Get in Touch</span>
-        <h2>Let&apos;s find the right way to work together.</h2>
+        <h2 className="line reveal-line accent-text">Let&apos;s find the right way to work together.</h2>
         <p className="section-lede">What brings you here?</p>
         <div className="contact-options" id="contactOptions">
           {OPTIONS.map((opt) => (

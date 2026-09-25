@@ -4,15 +4,10 @@ import { useEffect, useRef, useState } from "react";
 import { useMagnetic } from "@/hooks/useMagnetic";
 
 const LINKS = [
-  { href: "#services", label: "Services" },
-  { href: "#how-work", label: "How We Work" },
-  { href: "#intelligence", label: "Intelligence" },
-  { href: "#ecosystem", label: "Network" },
-  { href: "#exchange", label: "Exchange" },
+  { href: "#ecosystem", label: "Ecosystem" },
+  // { href: "#intelligence", label: "Intelligence" },
   { href: "#forums", label: "Forums" },
-  { href: "#policy", label: "Policy" },
-  { href: "#studio", label: "Studio" },
-  { href: "#index-section", label: "Index" },
+  { href: "#how-work", label: "Advisory" },
 ];
 
 export default function Nav() {

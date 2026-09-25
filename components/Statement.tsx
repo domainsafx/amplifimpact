@@ -11,7 +11,7 @@ export default function Statement() {
     <section className="statement" ref={ref}>
       <div className="wrap">
         <h2 className="statement-headline">
-          <span className="line reveal-line">Impact is everywhere.</span>
+          <span className="line reveal-line accent-text">Impact is everywhere.</span>
           <span className="line reveal-line accent-text">
             Connection isn&apos;t.
           </span>
